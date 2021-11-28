@@ -15,6 +15,9 @@ The MechaCar prototypes were produced using multiple design specifications to id
 
 ## Deliverable 2: Create Visualizations for the Trip Analysis
 
+The MechaCar Suspension_Coil.csv dataset contains the results from multiple production lots. In this dataset, the weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots. Using my knowledge of R, created a summary statistics table to show:
+
+
 ## Summary Statistics on Suspension Coils
 
 ### Total_Summary
@@ -30,6 +33,8 @@ The MechaCar prototypes were produced using multiple design specifications to id
 
 
 ## Deliverable 3: T-Tests on Suspension Coils
+
+Using my knowledge of R, to perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
 
 ![T COIL](https://user-images.githubusercontent.com/58860105/143768711-d32b280e-9bf3-4530-b71f-8bf397d3d830.PNG)
 
