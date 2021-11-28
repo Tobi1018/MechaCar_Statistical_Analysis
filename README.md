@@ -14,6 +14,10 @@ The MechaCar prototypes were produced using multiple design specifications to id
 
 ## Deliverable 2: Create Visualizations for the Trip Analysis
 
+### Total_Summary
+
+![total_summary](https://user-images.githubusercontent.com/58860105/143768229-4d50d23a-0c61-479b-b315-9616baa07f61.PNG)
+
 
 ### lot_Summary 
 
