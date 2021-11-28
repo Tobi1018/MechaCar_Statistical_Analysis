@@ -15,6 +15,11 @@ The MechaCar prototypes were produced using multiple design specifications to id
 ## Deliverable 2: Create Visualizations for the Trip Analysis
 
 
+### lot_Summary 
+
+![lot_summary](https://user-images.githubusercontent.com/58860105/143768140-fd3d6628-be44-402f-8d2d-82cc744ccb18.PNG)
+
+
 
 ## Deliverable 3: T-Tests on Suspension Coils
 
