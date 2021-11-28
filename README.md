@@ -24,7 +24,8 @@ The MechaCar prototypes were produced using multiple design specifications to id
 
 ### lot_Summary 
 
-![lot_summary](https://user-images.githubusercontent.com/58860105/143768140-fd3d6628-be44-402f-8d2d-82cc744ccb18.PNG)
+![lot](https://user-images.githubusercontent.com/58860105/143769246-244cca3c-d140-448b-adc1-a3f2f6c85d59.PNG)
+
 
 
 
