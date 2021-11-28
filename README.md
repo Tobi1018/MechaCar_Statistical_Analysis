@@ -8,7 +8,9 @@ The MechaCar prototypes were produced using multiple design specifications to id
 
 ![R_Analysisdv1](https://user-images.githubusercontent.com/58860105/143767644-ffe28ee0-5a8d-42ee-844b-7b65e3bafaee.PNG)
 
-
+* Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+* Is the slope of the linear model considered to be zero? Why or why not?
+* Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not
 
 ## Deliverable 2: Create Visualizations for the Trip Analysis
 
