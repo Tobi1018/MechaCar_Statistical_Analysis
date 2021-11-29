@@ -48,3 +48,6 @@ Using my knowledge of R, designed a statistical study to compare the performance
 ## Hypothesis:
 * Null Hypothesis: MecharCar and Competition vehicles perform similarly in terms of average city and highway fuel efficiency.
 * Alternative Hypothesis: Competition vehicles and MecharCars have different average city or highway fuel efficiency.
+
+## Statistical Test:
+Statistically, we will use a t-test to determine if there are differences in fuel economy between the MecharCar and the competition.
