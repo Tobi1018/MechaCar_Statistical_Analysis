@@ -42,4 +42,4 @@ Using my knowledge of R, to perform t-tests to determine if all manufacturing lo
 
 
 ## Study Design: MechaCar vs Competition
-
+Using my knowledge of R, designed a statistical study to compare the performance of the MechaCar vehicles against the performance of vehicles from other manufacturers. A statistical study has been designed to determine the performance of MechaCar vehicles in comparison with those produced by other manufacturers. Potential metrics that consumers could find interesting in this study might include cost, city or highway fuel efficiency, horsepower, maintenance cost, or safety rating.
