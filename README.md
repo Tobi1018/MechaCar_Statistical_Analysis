@@ -51,3 +51,6 @@ Using my knowledge of R, designed a statistical study to compare the performance
 
 ## Statistical Test:
 Statistically, we will use a t-test to determine if there are differences in fuel economy between the MecharCar and the competition.
+## Data Set Requirements:
+* Data set of fuel economy from MechaCar.
+* Data set of fuel economy from Competition 
