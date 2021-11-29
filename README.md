@@ -40,7 +40,7 @@ Using my knowledge of R, to perform t-tests to determine if all manufacturing lo
 
 ## T-Tests on Suspension Coils
 
-* Lot 1,
+* Lot 1,.
 * Lot 2, The t.test performed in lot 2 shows the p-values of 0.6072 with a mean of 1500.2. Our p-value is greater than 0.05 meaning the null hypothesis is strongly supported. This means we retain the null hypothesis and reject the alternative hypothesis.
 * Lot 3, the p-Value is 0.04 less than 0.05, which is statistically significant. It indicates strong evidence against the null hypothesis. 
 
