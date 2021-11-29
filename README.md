@@ -31,6 +31,9 @@ The MechaCar Suspension_Coil.csv dataset contains the results from multiple prod
 
 ![lot](https://user-images.githubusercontent.com/58860105/143769246-244cca3c-d140-448b-adc1-a3f2f6c85d59.PNG)
 
+MechaCar suspension coils are designed in a manner so that their variance cannot exceed 100 pounds per square inch.
+There is a global variance of 62.3 psi across all manufacturing lots.
+As far as lot variances go, Lot 1 and Lot 2 both matched. The variance in Lot 3 is 170.3 psi which is way higher than required.
 
 
 
