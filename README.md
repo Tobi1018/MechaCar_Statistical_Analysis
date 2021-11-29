@@ -13,6 +13,7 @@ The MechaCar prototypes were produced using multiple design specifications to id
 
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 * Is the slope of the linear model considered to be zero? Why or why not?
+  * The p-Value 5.35e-11 is much smaller than the assumed significance level of 0.05,Therefore, the null hypothesis cannot be accepted, indicating that the slope of this linear model is not zero.
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not
   * The r-squared value of the linear model is 0.715, which means that it will determine approximately 71% of all mpg predictions. MechaCar prototypes are predicted to achieve good mpg by different regression models.
 
