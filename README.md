@@ -41,5 +41,5 @@ Using my knowledge of R, to perform t-tests to determine if all manufacturing lo
 ![T COIL](https://user-images.githubusercontent.com/58860105/143768711-d32b280e-9bf3-4530-b71f-8bf397d3d830.PNG)
 
 
-
+## Study Design: MechaCar vs Competition
 
